@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>25FA3E2F-445A-496F-A39B-9C3CA409D534</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sbxCustom_OF_simple</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>559F61D0-F0E5-427C-8262-2E4D7772DAA3</key>
+		<string>https://github.com/bschorr/sbx</string>
+		<key>D1EF8EC8-E9D9-4F87-A25C-7A7EFCF9C85E</key>
+		<string>https://github.com/labatrockwell/ofxLibwebsockets</string>
+		<key>F904FC1D-5771-472A-9634-BAC6408CB3ED</key>
+		<string>https://github.com/Spacebrew/ofxSpacebrew</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>openframeworks/sbxCustom_OF_simple/sbxCustom_OF_simple.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>559F61D0-F0E5-427C-8262-2E4D7772DAA3</key>
+		<string>../../../..</string>
+		<key>D1EF8EC8-E9D9-4F87-A25C-7A7EFCF9C85E</key>
+		<string>../../../../../addons/ofxLibwebsockets</string>
+		<key>F904FC1D-5771-472A-9634-BAC6408CB3ED</key>
+		<string>../../../../../addons/ofxSpacebrew</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bschorr/sbx</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>559F61D0-F0E5-427C-8262-2E4D7772DAA3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D1EF8EC8-E9D9-4F87-A25C-7A7EFCF9C85E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxLibwebsockets</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F904FC1D-5771-472A-9634-BAC6408CB3ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxSpacebrew</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>559F61D0-F0E5-427C-8262-2E4D7772DAA3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sbx</string>
+		</dict>
+	</array>
+</dict>
+</plist>
