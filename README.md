@@ -15,7 +15,6 @@ For example, if I want to send a position in 3D space, I would write a vec3.json
 "y": 0;
 "z": 0;
 }
-
 ```
 If maybe I want to send a color, with an alpha value included, I would write a color.json file that looks like this:
 
@@ -26,7 +25,6 @@ If maybe I want to send a color, with an alpha value included, I would write a c
 "b": 0;
 "a": 0;
 }
-
 ```
 
 Search the folders README.md files to see the methods and download examples for SBX usage in each different Spacebrew implementation.
