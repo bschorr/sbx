@@ -1,7 +1,7 @@
 SBX
 ===
 
-*Disclaimer: **SBX** currently has methods only for the [openFrameworks Spacebrew Library](https://github.com/Spacebrew/ofxSpacebrew). Methods for the Processing and Javascript libraries to come soon.*
+_Disclaimer: **SBX** currently has methods only for the [openFrameworks Spacebrew Library](https://github.com/Spacebrew/ofxSpacebrew). Methods for the Processing and Javascript libraries to come soon._
 
 **SBX** stands for ***[spacebrew](http://docs.spacebrew.cc/) datatype extension***. It provides an easy interface to send and receive custom datatypes among spacebrew instances.
 
