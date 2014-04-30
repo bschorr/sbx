@@ -18,7 +18,7 @@ void testApp::setup(){
     
     config.addPublish(outParticles);
     
-    sb.connect( Spacebrew::SPACEBREW_CLOUD, config );
+    sb.connect( "localhost", config );
     
     Spacebrew::addListener(this, sb);
     

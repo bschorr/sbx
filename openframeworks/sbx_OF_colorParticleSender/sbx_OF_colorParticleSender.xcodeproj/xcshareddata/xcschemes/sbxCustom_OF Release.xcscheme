@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-               BuildableName = "sbxCustom_OF_colorParticleSender.app"
+               BuildableName = "sbx_OF_colorParticleSender.app"
                BlueprintName = "sbx_OF_colorParticleSender"
                ReferencedContainer = "container:sbx_OF_colorParticleSender.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "sbxCustom_OF_colorParticleSender.app"
+            BuildableName = "sbx_OF_colorParticleSender.app"
             BlueprintName = "sbx_OF_colorParticleSender"
             ReferencedContainer = "container:sbx_OF_colorParticleSender.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "sbxCustom_OF_colorParticleSender.app"
+            BuildableName = "sbx_OF_colorParticleSender.app"
             BlueprintName = "sbx_OF_colorParticleSender"
             ReferencedContainer = "container:sbx_OF_colorParticleSender.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "sbxCustom_OF_colorParticleSender.app"
+            BuildableName = "sbx_OF_colorParticleSender.app"
             BlueprintName = "sbx_OF_colorParticleSender"
             ReferencedContainer = "container:sbx_OF_colorParticleSender.xcodeproj">
          </BuildableReference>

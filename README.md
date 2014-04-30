@@ -11,19 +11,19 @@ For example, if I want to send a position in 3D space, I would write a vec3.json
 
 ```
 {
-"x": 0;
-"y": 0;
-"z": 0;
+"x": 0,
+"y": 0,
+"z": 0
 }
 ```
 If maybe I want to send a color, with an alpha value included, I would write a color.json file that looks like this:
 
 ```
 {
-"r": 0;
-"g": 0;
-"b": 0;
-"a": 0;
+"r": 0,
+"g": 0,
+"b": 0,
+"a": 0
 }
 ```
 
