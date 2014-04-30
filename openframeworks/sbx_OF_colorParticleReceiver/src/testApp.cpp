@@ -18,7 +18,7 @@ void testApp::setup(){
     
     config.addSubscribe(inParticles);
     
-    sb.connect( "localhost", config );
+    sb.connect( Spacebrew::SPACEBREW_CLOUD, config );
     
     Spacebrew::addListener(this, sb);
     
