@@ -16,23 +16,22 @@ In this explanation we'll consider a 3D position data type, loading from a vec3.
 }
 ```
 
-#####In ofApp.h (or testApp.h)
+####In ofApp.h (or testApp.h):
 Declare an sbx::custom object:
 
 ```
 sbx::custom myVector
 ```
 
-#####In ofApp.cpp (or testApp.cpp)
+####In ofApp.cpp (or testApp.cpp):
 In setup, you configure your SBX:
 
 ```
-myVector.setName("myVector");myVector.setType("vec3");myVector.loadType("vec3.json");config.addSubscribe(myVector);config.addPublish(myVector)
-```
+myVector.setName("myVector");myVector.setType("vec3");myVector.loadType("vec3.json");config.addSubscribe(myVector);config.addPublish(myVector)```
 To set values, up to 3 levels deep in the JSON:
 ```
 myVector.setValue (“x”, 42);```
-if you have a more complex JSON, such as in the _sbx_OF_colorParticle_ examples, you can set values by including the 2 levels in your function:```myVector.setValue("color", "r", 236);```
+if you have a more complex JSON, such as in the _sbx_OF_colorParticle_ examples, you can set values by including the 2 levels in your function:```myVector.setValue("color", "r", 236);```
 Or you can set the value for all attributes of the SBX by receiving incoming values from Spacebrew, using the onMessage function:
 
 ```
